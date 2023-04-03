@@ -110,3 +110,4 @@ def input(key):
         goal.enabled = True
 
 app.run()
+
