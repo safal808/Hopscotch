@@ -34,5 +34,5 @@ You can install the necessary dependencies using the pip package manager:
 pip install ursina
 
 
-License
+### License
 This project is licensed under the GNU License.
