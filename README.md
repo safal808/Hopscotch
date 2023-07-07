@@ -20,11 +20,16 @@ Run the following command to start the game:
 
 ### Gameplay
 Use the WASD keys to move the character in the game.
+
 Avoid colliding with the white blocks that appear in your path.
+
 Reach the Hopscotch without falling off the ground.
+
 If you fall off the ground, the game is over. Press 'R' to restart or 'Q' to quit.
+
 If you reach the Hopscotch successfully, you win the game. Press 'R' to restart or 'Q' to quit.
-Dependencies
+
+###Dependencies
 
 The Hopscotch - Squid game level 5 project has the following dependencies:
 Ursina 
