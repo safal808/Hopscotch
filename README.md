@@ -10,12 +10,12 @@ To run the Hopscotch - Squid game level 5, follow these steps:
 2. Install the Ursina game engine by running the following command:
 
 ### Run:
-pip install ursina
+```pip install ursina```
 Clone or download the project repository from GitHub link.
 Open a terminal or command prompt and navigate to the project directory.
 Run the following command to start the game:
 
-python hopscotch.py
+```python hopscotch.py```
 
 ### Gameplay
 Use the WASD keys to move the character in the game.
@@ -27,11 +27,6 @@ Dependencies
 
 The Hopscotch - Squid game level 5 project has the following dependencies:
 Ursina 
-
-You can install the necessary dependencies using the pip package manager:
-
-
-pip install ursina
 
 
 ### License
