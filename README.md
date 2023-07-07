@@ -6,7 +6,7 @@ Hopscotch is a first-person 3D game created in Python using the Ursina game engi
 
 To run the Hopscotch - Squid game level 5, follow these steps:
 
-1. Install Python (version X.X.X) from [python.org](https://www.python.org).
+1. Install Python from [python.org](https://www.python.org).
 2. Install the Ursina game engine by running the following command:
 
 ### Run:
