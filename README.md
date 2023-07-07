@@ -29,7 +29,7 @@ If you fall off the ground, the game is over. Press 'R' to restart or 'Q' to qui
 
 If you reach the Hopscotch successfully, you win the game. Press 'R' to restart or 'Q' to quit.
 
-###Dependencies
+### Dependencies
 
 The Hopscotch - Squid game level 5 project has the following dependencies:
 Ursina 
